@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/105742572?v=4"  />
-</div>
-
-###
-
 <h1 align="center">Hey Friends, I'm Ariel</h1>
 
 ###
